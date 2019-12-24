@@ -1,0 +1,4 @@
+Added Component: Designator=J1(CUI_SJ-3523-SMT-TR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Connectors, Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

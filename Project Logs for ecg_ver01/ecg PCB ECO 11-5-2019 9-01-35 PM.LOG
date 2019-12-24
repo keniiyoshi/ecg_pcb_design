@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net1_2 Pin=OPAMP2-2
+Removed Pin From Net: NetName=NetBattery2_2 Pin=OPAMP2-5
+Change Component Comment : Designator=R1 Old Comment=27 Ohms New Comment=250 Ohms
+Change Component Comment : Designator=R4 Old Comment=27 Ohms New Comment=250 Ohms
+Added Pin To Net: NetName=NetBattery2_2 Pin=OPAMP2-2
+Added Pin To Net: NetName=Net1_2 Pin=OPAMP2-5

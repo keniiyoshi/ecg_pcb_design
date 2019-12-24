@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=Battery NewDesignator=Battery1
+Added Component: Designator=Battery2(Battery Retainer)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Memory Protection Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "BC-2003-G-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.95000, 10=0.80500, 100=0.66510, 500=0.57498 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4670"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "BC-2003-G-TR-CT-ND"; VariantName = "[No Variations]"

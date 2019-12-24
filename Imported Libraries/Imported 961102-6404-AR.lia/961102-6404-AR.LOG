@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : 961102-6404-AR.LibPkg
+
+Section : C:\Users\Public\Documents\Altium\Projects\ecg\961102-6404-AR.lia
+    Section : PCB Library - 961102-6404-AR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 961102-6404-AR On Line 124
+            Warning - 1 : Skipping Token attachedSymbol On Line 171
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 961102-6404-AR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 105
+            Warning - 1 : Skipping Token layerContents On Line 110
+            Warning - 1 : Skipping Token layerContents On Line 116
+            Warning - 1 : Skipping Token isVisible On Line 148
+            Warning - 1 : Skipping Token isVisible On Line 149
+        EndSection
+
+        Section : Generating SCH Library - 961102-6404-AR.SchLib
+        EndSection
+    EndSection
+EndSection
